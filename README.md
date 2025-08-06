@@ -93,33 +93,69 @@ const anish = {
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🌟 [OTMT Platform](https://otmt.iiitd.edu.in) - *Full-Stack Ecosystem*
-**Tech:** MERN Stack, Kotlin, Python, RAG, Firebase
-- 🎯 **Complete ecosystem** with Web App, Android App, Admin Dashboard & RAG Chatbot
-- ⚡ **Automated brochure generation** with Excel integration
-- 🚀 **Production deployment** with Nginx & PM2
+### 🌟 [OTMT Platform](https://otmt.iiitd.edu.in)
+**Full-Stack Ecosystem**
 
-### 🤖 **Deception Detection in Diplomacy** - *AI Research Project*
-**Tech:** Python, TensorFlow, Transformers, GCNs
-- 🧠 **Hybrid deep learning model** combining Transformers + Graph Neural Networks
-- 📊 **85.8% accuracy** on 17,000+ message dataset
-- 🎯 **Novel approach** to contextual deception detection
+![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-RAG-green?style=flat-square)
 
-### 📱 **Document Scanner App** - *Native Android*
-**Tech:** Kotlin, Jetpack Compose, Google ML Kit
-- 📸 **98% OCR accuracy** with automated edge detection
-- 🎵 **90% text-to-speech clarity**
-- ⚡ **75% faster** manual crop time reduction
+🎯 Complete ecosystem with Web App, Android App & RAG Chatbot  
+⚡ Automated brochure generation with Excel integration  
+🚀 Production deployment with Nginx & PM2  
 
-### 🎮 **Stick Hero Game** - *Game Development*
-**Tech:** Java, JavaFX, Multithreading
-- 🎯 **60 FPS performance** with <5ms input latency
-- 🧵 **100 concurrent animations** with multithreading
-- ✅ **90% code coverage** with JUnit testing
+</td>
+<td width="50%">
 
-</div>
+### 🤖 Deception Detection in Diplomacy
+**AI Research Project**
+
+![Python](https://img.shields.io/badge/Python-ML-blue?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-NLP-red?style=flat-square)
+
+🧠 Hybrid model: Transformers + Graph Neural Networks  
+📊 **85.8% accuracy** on 17,000+ message dataset  
+🎯 Novel contextual deception detection approach  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Document Scanner App
+**Native Android Development**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-purple?style=flat-square)
+![Jetpack](https://img.shields.io/badge/Jetpack-Compose-green?style=flat-square)
+![ML Kit](https://img.shields.io/badge/Google-ML%20Kit-yellow?style=flat-square)
+
+📸 **98% OCR accuracy** with edge detection  
+🎵 **90% text-to-speech clarity**  
+⚡ **75% faster** manual crop time  
+
+</td>
+<td width="50%">
+
+### 🎮 Stick Hero Game
+**Game Development**
+
+![Java](https://img.shields.io/badge/Java-Game-red?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-UI-blue?style=flat-square)
+![Threading](https://img.shields.io/badge/Multi-Threading-orange?style=flat-square)
+
+🎯 **60 FPS** performance with <5ms latency  
+🧵 **100 concurrent** animations  
+✅ **90% code coverage** with JUnit  
+
+</td>
+</tr>
+</table>
 
 ---
 
