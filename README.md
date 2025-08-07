@@ -182,12 +182,6 @@ const anish = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devan1shX&theme=algolia" width="900"/>
 </div>
 
-### 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <img src="https://github.com/devan1shX/devan1shX/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ### 💻 Real-Time Coding Stats
 
 <div align="center">
@@ -224,7 +218,7 @@ Open Source Contrib
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devan1shX&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devan1shX&theme=algolia&hide_border=true" width="500"/>
 
 </div>
 
