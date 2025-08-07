@@ -172,54 +172,10 @@ const anish = {
 
 ---
 
-## 🔥 Contribution Metrics
+## 🎯 Coding Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devan1shX&theme=react-dark&hide_border=true&area=true&custom_title=Anish's%20Coding%20Journey" width="900"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devan1shX&theme=algolia" width="900"/>
-</div>
-
-### 💻 Real-Time Coding Stats
-
-<div align="center">
-  
-<table>
-<tr>
-<td align="center">
-  
-**🚀 This Year**
-```
-471 Contributions
-Consistent Coding
-```
-
-</td>
-<td align="center">
-  
-**⚡ Current Focus**
-```
-ML & NLP Projects
-Full-Stack Development  
-```
-
-</td>
-<td align="center">
-  
-**🎯 Goals**
-```
-500+ Contributions
-Open Source Contrib
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devan1shX&theme=algolia&hide_border=true" width="500"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devan1shX&theme=react-dark&hide_border=true&area=true" width="900"/>
 </div>
 
 <div align="center">
