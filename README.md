@@ -180,10 +180,17 @@ const anish = {
 
 <div align="center">
 
-**🏅 Problem Solving Stats:**
-- 💻 **300+** Algorithm & Data Structure challenges solved
-- 🧠 **LeetCode & GeeksforGeeks** active problem solver
-- 🏆 **Foosball Champion** at IIIT-Delhi
+### 🏅 Problem Solving & Achievements
+
+<div align="center">
+  
+| 🎯 **Achievement** | 📊 **Stats** | 🏆 **Platform** |
+|:------------------:|:------------:|:---------------:|
+| **Coding Challenges** | `300+` Solved | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white) |
+| **Sports Champion** | `🥇 Winner` | ![Foosball](https://img.shields.io/badge/Foosball-Champion-gold?style=flat&logo=trophy&logoColor=white) |
+| **Algorithmic Skills** | `Advanced` | ![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat&logo=code&logoColor=white) |
+
+</div>
 
 </div>
 
