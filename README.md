@@ -15,6 +15,9 @@
   <a href="https://linkedin.com/in/devan1shx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://devan1shx.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
   <a href="https://instagram.com/ianishdev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
